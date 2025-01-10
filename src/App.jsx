@@ -7,6 +7,9 @@ function App() {
     <>
       <h1>Vite + React.</h1>
       <p>welcome</p>
+      <span>function name(params) {
+        
+      }</span>
     </>
   )
 }
