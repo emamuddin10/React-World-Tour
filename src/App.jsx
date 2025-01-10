@@ -10,6 +10,7 @@ function App() {
       <span>function name(params) {
         
       }</span>
+      <p>load</p>
     </>
   )
 }
